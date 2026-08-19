@@ -15,8 +15,10 @@ also applies to the upstream code.
 
 Archived repositories are unmaintained and we do not intend to fix
 vulnerabilities in them.
+Examples and demos are marked with the `example` topic and a notice in the
+README.
 You may still report issues, but we will generally not publish advisories or
-request CVEs for archived code.
+request CVEs for archived or example code.
 
 If you are unsure whether the policy applies, feel free to reach out via the
 address mentioned below.
